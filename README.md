@@ -1,2 +1,5 @@
 # motortemp
- Motorcycle Temperature Reader 
+ Motorcycle Oiltemperature-Reader for Arduino (Nano)
+ 
+ 
+ 
