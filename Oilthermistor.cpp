@@ -2,9 +2,7 @@
 /*
  * Oilthermistor.h - Library for reading oilthermistor temperature
  * Version: 0.2
- * Created by Ugurcan Albayrak, February 2017
- * 
- * Copyright (C): Ugurcan Albayrak
+ * Created by artgerecht, February 2017
  *
  */
  
